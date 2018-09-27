@@ -1,0 +1,12 @@
+cloudpickle==0.5.5
+dask==0.19.0
+locket==0.2.0
+numpy==1.15.1
+pandas==0.23.4
+partd==0.3.8
+psycopg2-binary==2.7.5
+python-dateutil==2.7.3
+pytz==2018.5
+six==1.11.0
+SQLAlchemy==1.2.11
+toolz==0.9.0
